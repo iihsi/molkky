@@ -3,7 +3,7 @@ import requests
 import json
 from matplotlib import pyplot as plt
 
-TOKEN = 'MTA4NjEyNzEyMTkyNTE0NDcwNg.GW3ivr.274BILb-kMBYmAubZcqpqyuaj4BVqsxv7yVpvc'
+TOKEN = 'xxxxx'
 
 client = discord.Client(intents=discord.Intents.all())
 
