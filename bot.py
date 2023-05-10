@@ -8,7 +8,7 @@ TOKEN = 'xxxxx'
 client = discord.Client(intents=discord.Intents.all())
 
 # json
-url = "https://script.google.com/macros/s/AKfycbyY3Bol7wFrcyFCk-FIf6oUMn731RkZAglYZd2WoTtZvlc95U81142CVe5rpdpOJnmixw/exec" 
+url = "https://script.google.com/macros/xxxxxxxxxxxxx" 
 
 # 起動
 @client.event
